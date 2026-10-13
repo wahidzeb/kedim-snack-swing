@@ -1,0 +1,42 @@
+{
+  "id": "/kedim-snack-swing/",
+  "name": "Kedim's Snack Swing",
+  "short_name": "Kedim's Snack S",
+  "description": "Kedim's Snack Swing by Zaib: a rope-cutting physics puzzle. Swipe to cut the ropes and swing a fish treat into Kedim the cat's mouth. 120 levels in 6 themed boxes, 3 stars per level, a daily level, hats and treat skins.",
+  "lang": "en",
+  "start_url": "/kedim-snack-swing/?source=pwa",
+  "scope": "/kedim-snack-swing/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#3a2350",
+  "background_color": "#3a2350",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/kedim-snack-swing/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/kedim-snack-swing/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/kedim-snack-swing/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/kedim-snack-swing/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
